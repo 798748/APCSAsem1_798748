@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=TwoDArray
+comment0.text=\r\n\ Filling\ up\ and\ doing\ stuff\ with\ a\ matrix\r\n\r\n\ @Cameron\ Snyder\r\n\ @1107\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ loadArray()
+comment3.params=
+comment3.target=double\ sumAll()
+comment4.params=
+comment4.target=int\ findGreatest()
+comment5.params=
+comment5.target=double\ findAvg()
+numComments=6

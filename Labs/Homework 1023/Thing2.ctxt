@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Thing2
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Thing2\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=java.lang.String\ strings()
+comment2.params=
+comment2.target=int\ integers()
+comment3.params=
+comment3.target=void\ doesntWork()
+numComments=4

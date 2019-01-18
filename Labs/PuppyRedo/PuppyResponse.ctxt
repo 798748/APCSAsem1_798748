@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PuppyResponse
+comment0.text=\r\n\ Responds\ to\ a\ given\ phrase\ with\ a\ set\ of\ responses.\r\n\r\n\ @Cameron\ Snyder\r\n\ @1107\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=java.lang.String\ responseGen()
+numComments=3
